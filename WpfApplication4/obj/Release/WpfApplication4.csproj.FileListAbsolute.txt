@@ -1,0 +1,66 @@
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\applause-3.wav
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\BackgroundMusic.WAV
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\backgroundsky3.jpg
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\balancebeam.jpg
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\beep-07.wav
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\gameover.jpg
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\gameover.wav
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\HFE_logo.jpg
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\WpfApplication4.exe.config
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\WpfApplication4.exe
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\WpfApplication4.pdb
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Microsoft.Kinect.dll
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Microsoft.Kinect.xml
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\Interop.WMPLib.dll
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.csproj.ResolveComReference.cache
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\MainWindow.g.cs
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\EndWindow2.g.cs
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\SubWindow.g.cs
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\EndWindow.g.cs
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\SubWindow2.g.cs
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\App.g.cs
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4_MarkupCompile.cache
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4_MarkupCompile.lref
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\MainWindow.baml
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\EndWindow2.baml
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\SubWindow.baml
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\EndWindow.baml
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\SubWindow2.baml
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.g.resources
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.Properties.Resources.resources
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.exe
+C:\Users\HFE Lab_Woojoo\Documents\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.pdb
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\WpfApplication4.exe.config
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\Interop.WMPLib.dll
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.csproj.ResolveComReference.cache
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.exe
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.pdb
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\applause-3.wav
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\BackgroundMusic.WAV
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\backgroundsky3.jpg
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\balancebeam.jpg
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\beep-07.wav
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\gameover.jpg
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\gameover.wav
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Resources\HFE_logo.jpg
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\WpfApplication4.exe
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\WpfApplication4.pdb
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Microsoft.Kinect.dll
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\bin\Release\Microsoft.Kinect.xml
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\MainWindow.g.cs
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\EndWindow2.g.cs
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\SubWindow.g.cs
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\EndWindow.g.cs
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\SubWindow2.g.cs
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\App.g.cs
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4_MarkupCompile.cache
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4_MarkupCompile.lref
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\MainWindow.baml
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\EndWindow2.baml
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\SubWindow.baml
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\EndWindow.baml
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\SubWindow2.baml
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.g.resources
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\WpfApplication4_v2\WpfApplication4\obj\Release\WpfApplication4.csproj.GenerateResource.Cache

@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApplication4.SubWindow2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication4"
+        mc:Ignorable="d"
+        Title="KINECT Balance Beam Game" Height="900" Width="1550" Loaded="Window_Loaded">
+
+    <Grid>
+
+        <Image x:Name="BackgroundImage" Source="Resources/Interface.jpg" Opacity="0.8"/>
+
+        <Viewbox HorizontalAlignment="Center">
+            <Image Source="{Binding SkeletonImageSource}" Stretch="UniformToFill" />
+        </Viewbox>
+       
+        
+        <TextBlock x:Name="StandStatusTextBlock" Text="Instructions" FontSize="60" Margin="1053,165,89,404" TextAlignment="Center" Height="250" Width="400" FontFamily="Agency FB Regular"/>
+
+        <TextBlock x:Name="ExerciseMode" HorizontalAlignment="Center" TextWrapping="Wrap" FontSize="60" FontFamily="Agency FB Bold" Text="Exercise Mode" Margin="50,25,0,727"/>
+        <TextBlock x:Name="Timer" HorizontalAlignment="Left" Margin="50,76,0,727" TextWrapping="Wrap" Text="Timer"  FontSize="50" FontFamily="Agency FB Regular"/>
+        <ProgressBar Name="TimeProgress" VerticalAlignment="Top" Width="100" Height="10" Minimum="0" Maximum="10" Value="0" Margin="240,231,1202,0" />
+        <TextBlock x:Name="TimerTextBlock" Text="10 s" HorizontalAlignment="Right" VerticalAlignment="Top" FontWeight="Bold" FontSize="100" FontFamily="Agency FB Bold" Margin="0,144,1322,0"/>
+        <TextBlock x:Name="Score" HorizontalAlignment="Left" Margin="50,286,0,520" TextWrapping="Wrap" Text="Score" FontSize="50" FontFamily="Agency FB Regular"/>
+        <TextBlock x:Name="ScoreTextBlock" Text="00 pts" VerticalAlignment="Top" FontWeight="Bold" FontSize="100" FontFamily="Agency FB Bold" Margin="85,354,0,0"/>
+
+        <TextBlock x:Name="FootLeftTextBlock" Text="Left Foot" HorizontalAlignment="Left" VerticalAlignment="Bottom" FontSize="50" Margin="50,0,0,20" FontFamily="Agency FB Regular"/>
+        <TextBlock x:Name="FootRightTextBlock" Text="Right Foot" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="50" Margin="0,0,50,20" FontFamily="Agency FB Regular"/>
+
+
+    </Grid>
+</Window>
